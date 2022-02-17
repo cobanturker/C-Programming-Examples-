@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1645124141 source:c:\exsr\frequency_array\main.c
+	<stdio.h>
+	<stdlib.h>
+
